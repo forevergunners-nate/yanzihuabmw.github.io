@@ -1,0 +1,6 @@
+Currently serve as Software Engineer of Citi ALTO (Low Value Payment) team, actively participate in requirements analysis, design and implementation application which provides real-time processing services for payment messages from SEPA ,LATAM and NA regions. Services include: validation, scheduling, rejection/disbursement, reporting, monitoring and so on. 
+Projects participated: 
+Global Payment App-Region:North America 
+Global Payment App-Region:LATAM(Columbia,Peru,Argentina,Brazil and Ecuador) 
+Global Payment App-Region:EMEA(European Union) 
+Global Payment Sanctions Approval System 

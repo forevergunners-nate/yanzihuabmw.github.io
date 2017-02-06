@@ -1,0 +1,1 @@
+Served as RA on Scientific Research Project"Model of customer churn prediction for Bank of MinSheng". This project aims at building up an application which discover customer behavior by analyzing loan and credit card transaction data from banking sectors. 
